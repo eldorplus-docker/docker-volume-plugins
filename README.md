@@ -11,3 +11,5 @@ There are two key labels
 * `latest` this is the latest version that was built which should be ready for use in production systems.
 
 **There is no robust error handling.  So garbage in -> garbage out**
+
+(Document)[https://blog.ruanbekker.com/blog/2019/03/05/container-persistent-storage-for-docker-swarm-using-a-glusterfs-volume-plugin]
