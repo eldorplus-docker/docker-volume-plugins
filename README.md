@@ -12,4 +12,4 @@ There are two key labels
 
 **There is no robust error handling.  So garbage in -> garbage out**
 
-(Document)[https://blog.ruanbekker.com/blog/2019/03/05/container-persistent-storage-for-docker-swarm-using-a-glusterfs-volume-plugin]
+[Documment](https://blog.ruanbekker.com/blog/2019/03/05/container-persistent-storage-for-docker-swarm-using-a-glusterfs-volume-plugin)
